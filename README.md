@@ -34,9 +34,9 @@ This project supports:
 ---
 
 ## 📁 Project Structure
-├── test_asr.py # main evaluation pipeline
-├── audio_utils.py # audio preprocessing utilities
-├── asr_model.py # ASR model wrapper
+├── test_asr.py 
+├── audio_utils.py 
+├── asr_model.py
 ├── requirements.txt
 └── README.md
 
