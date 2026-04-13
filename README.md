@@ -35,9 +35,13 @@ This project supports:
 
 ## 📁 Project Structure
 ├── test_asr.py 
+
 ├── audio_utils.py 
+
 ├── asr_model.py
+
 ├── requirements.txt
+
 └── README.md
 
 
